@@ -8,6 +8,6 @@
 
 
 ## Analysis of market of Electric Vehicles in US
-| Project Link | Tools | Source of Datasets | Description |
+| Project Link | Tools | Source of Dataset | Description |
 |:---:|:----:|:--------------------:|:-------------:|
 | [Analysis of market of Electric vehicles]() | Data Wrangling & EDA using Python (Libraries - Pandas, Numpy, Scipy) | data.gov  | |
