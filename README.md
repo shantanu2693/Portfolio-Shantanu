@@ -12,6 +12,6 @@
 |:---:|:----:|:-----:|:-------------:|
 | [Analysis of market of Electric vehicles](https://github.com/shantanu2693/Analysis-of-market-of-Electric-Vehicles/blob/main/Market%20analysis%20of%20Electric%20vehicles.ipynb) | Data Wrangling, EDA using Python libraries - Pandas, Numpy, Scipy | data.gov | The project analyzes the market of EVs, their distribution, types, top models and a forecast of EV sales for the next 10 years.
 
-## 3. House prices prediction using Linear Regression, XGboost and Random Forest algorithm:
+## 3. House prices prediction using Linear Regression, Random Forest algorithm and XGboost:
 | Project Link | Tools | Source of Dataset | Description |
 |:---:|:----:|:-----:|:-------------:|
