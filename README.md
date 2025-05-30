@@ -4,7 +4,7 @@
 
 | Project Link | Tools | Source of Datasets | Description |
 |:---:|:----:|:-----:|:-------------:|
-| [International Migration](https://github.com/shantanu2693/International-Migration-from-India-a-financial-perspective) | Excel, Google Sheets, Looker studio | World Bank | Designed and developed a data model and provided insights to answer the question - How would it financially affect India had its international migrant stock stayed in the country and worked rather than leaving and sending remittances. The goal is to determine where India should work on creating more diaspora engagement and outreach activities.
+| [International Migration](https://github.com/shantanu2693/International-Migration-from-India-a-financial-perspective) | Excel, Google Sheets, Looker studio | World Bank | Designed and developed a data model and provided insights to answer the question - How would it financially affect India had its international migrant stock stayed in the country and worked rather than leaving and sending remittances. The goal is to determine in which countries India should work on creating more diaspora engagement and outreach activities.
 
 
 ## 2. Analysis of market of Electric Vehicles:
@@ -15,3 +15,4 @@
 ## 3. House prices prediction using Linear Regression, Random Forest algorithm and XGboost:
 | Project Link | Tools | Source of Dataset | Description |
 |:---:|:----:|:-----:|:-------------:|
+|[House prices prediction](https://github.com/shantanu2693/House-prices-prediction/blob/main/House_prices_prediction_using_multiple_Machine_learning_algorithms%20(2).ipynb)| Data preprocessing, normalization, encoding, Imputation, predictions and comparing multiple Machine Learning algorithms | https://www.kaggle.com/ | 
