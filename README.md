@@ -15,4 +15,4 @@
 ## 3. House prices prediction using Linear Regression, Random Forest algorithm and XGboost:
 | Project Link | Tools | Source of Dataset | Description |
 |:---:|:----:|:-----:|:-------------:|
-|[House prices prediction](https://github.com/shantanu2693/House-prices-prediction/blob/main/House_prices_prediction_using_multiple_Machine_learning_algorithms%20(2).ipynb)| Data preprocessing, normalization, encoding, Imputation, predictions and comparing multiple Machine Learning algorithms | Kaggle | 
+|[House prices prediction using Linear Regreesion, Random Forest algorithm and XGBoost](https://github.com/shantanu2693/House-prices-prediction/blob/main/House_prices_prediction_using_Linear_Regression%2C_Random_Forest_algorithm_and_XGBoost.ipynb)| Data preprocessing, normalization, encoding, Imputation, predictions and comparing multiple Machine Learning algorithms | Kaggle | The project compares different ML models on House prices dataset and chooses the best one to make predictions.
